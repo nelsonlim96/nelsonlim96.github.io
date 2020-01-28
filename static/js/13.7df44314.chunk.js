@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{67:function(e,t,n){"use strict";n.r(t),t.default={title:"React Resources",tags:["react"],spoiler:"Templates and Resources for React.",getContent:function(){return n.e(5).then(n.bind(null,56))}}}}]);
+//# sourceMappingURL=13.7df44314.chunk.js.map

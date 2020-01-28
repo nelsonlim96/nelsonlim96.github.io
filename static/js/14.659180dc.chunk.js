@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{68:function(t,n,e){"use strict";e.r(n),n.default={title:"Internship Summary Part 1: Chatbot Development",tags:["aws","chatbot"],spoiler:"How I built a chatbot using Amazon Web Services and NLP during my internship with Carigos.",getContent:function(){return e.e(8).then(e.bind(null,60))}}}}]);
+//# sourceMappingURL=14.659180dc.chunk.js.map
